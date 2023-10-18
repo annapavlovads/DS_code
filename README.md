@@ -17,7 +17,7 @@
 ## Парсер на python | Python web page parcer
 `beautiful soup` `Python` 
 
-## Модель классификации отзывов по заданным категориям | Text classification model 
+## Модель классификации отзывов по категориям | Text classification model 
 [IPYNB file - Text clsf model]() <br>
 `Python` `pandas` 
 
